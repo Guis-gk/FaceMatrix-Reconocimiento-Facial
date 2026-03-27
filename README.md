@@ -1,8 +1,7 @@
-# FaceMatrix-Reconocimiento-Facial
-Proyecto de reconocimiento facial usando PCA, Eigenfaces y similitud coseno
 # FaceMatrix: Sistema de Reconocimiento Facial
 
 Proyecto académico para el curso de **Cálculo y Álgebra Lineal** de la Escuela Profesional de Ingeniería de Inteligencia Artificial.
+Proyecto de reconocimiento facial usando PCA, Eigenfaces y similitud coseno
 
 ## 📌 Descripción
 
