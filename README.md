@@ -29,7 +29,17 @@ El notebook está organizado en 6 niveles:
 | 3.1 | Gradiente descendente | Optimización de función simple |
 | 3.2 | Margen angular | ArcFace didáctico, separación de clases |
 
+## 🚀 Mejoras implementadas
+
+| Mejora | Descripción |
+|--------|-------------|
+| SVD dispersa | Comparación de rendimiento entre PCA clásico y SVD dispersa |
+| Ampliación de dataset | Aumento del número de imágenes de entrenamiento |
+| Detección facial | Integración de OpenCV para localización de rostros |
+| Interpretabilidad | Visualización de pesos por persona mediante boxplots |
+
 ## 🛠️ Requisitos
 
 ```bash
 pip install numpy matplotlib scikit-learn
+pip install numpy matplotlib scikit-learn opencv-python-headless
